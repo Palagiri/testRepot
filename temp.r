@@ -1,1 +1,1 @@
-hai how are you doing ?
+print ("hai how are you doing ?")
